@@ -18,4 +18,22 @@ elif
 
 nested if
 
+for loop
+
+nested for loop
+
+Indexing
+
+While loop
+
+Functions
+
+Parameters and Arguments
+
+Over writing
+
+Nested Functions
+
+Return Function
+
 
